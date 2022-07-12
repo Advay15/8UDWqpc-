@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background-image: -webkit-linear-gradient(black, darkgreen, rgb(5, 181, 5),yellow );
+	border-radius: 20px;
+}
